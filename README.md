@@ -5,6 +5,7 @@ Nova Expense Tracker is a modern, full-stack personal finance management applica
 Designed with a premium fintech-inspired user experience, Nova combines a responsive React frontend with a secure Node.js backend and MongoDB database to deliver a seamless and scalable personal finance solution.
 
 ✨ Features
+
 🔐 Secure JWT Authentication
 💰 Income & Expense Management
 👛 Multiple Wallet Support
@@ -17,24 +18,8 @@ Designed with a premium fintech-inspired user experience, Nova combines a respon
 📱 Fully Responsive Design
 🔍 Search & Filter Transactions
 ⚡ Modern UI with Smooth Animations
-🛠 Tech Stack
-Frontend
-React.js
-Vite
-Tailwind CSS
-React Router
-Axios
-Recharts
-Backend
-Node.js
-Express.js
-MongoDB
-Mongoose
-JWT Authentication
-Multer
-Cloudinary
-🔒 Authentication
-JWT Access & Refresh Tokens
+
+
 Secure HTTP-only Cookies
 Password Hashing with bcrypt
 Protected API Routes
