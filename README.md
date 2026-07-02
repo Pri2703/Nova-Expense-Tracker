@@ -1,22 +1,47 @@
-💸 Nova Expense Tracker
+# 💸 Nova Expense Tracker
 
-Nova Expense Tracker is a modern, full-stack personal finance management application that helps users take control of their finances through an intuitive and visually appealing interface. The application enables users to manage income and expenses, track multiple wallets, create monthly budgets, monitor savings goals, and gain valuable financial insights using interactive charts and analytics.
+Nova Expense Tracker is a modern full-stack personal finance application designed to help users manage money more effectively. It combines a polished React frontend with a secure Node.js and Express backend, backed by MongoDB for storing transactions, wallets, budgets, and savings goals.
 
-Designed with a premium fintech-inspired user experience, Nova combines a responsive React frontend with a secure Node.js backend and MongoDB database to deliver a seamless and scalable personal finance solution.
+## ✨ Features
 
-✨ Features
+- Secure JWT authentication
+- Income and expense management
+- Multiple wallet support
+- Monthly budget tracking
+- Savings goal management
+- Receipt upload support with Cloudinary and local storage
+- Interactive dashboard and analytics
+- Light and dark mode
+- Responsive design for desktop and mobile
+- Search and filter for transactions
 
-🔐 Secure JWT Authentication
-💰 Income & Expense Management
-👛 Multiple Wallet Support
-📊 Interactive Dashboard & Analytics
-📅 Monthly Budget Tracking
-🎯 Savings Goal Management
-🧾 Receipt Upload Support (Cloudinary / Local Storage)
-📈 Expense Visualization with Charts
-🌙 Light & Dark Mode
-📱 Fully Responsive Design
-🔍 Search & Filter Transactions
-⚡ Modern UI with Smooth Animations
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Framer Motion
+- Recharts
+- React Router
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB with Mongoose
+- JWT Authentication
+- Cloudinary
+- Multer
+- CORS and Cookie Parser
+
+## 📦 Project Structure
+
+- frontend: React + TypeScript user interface
+- backend: Express.js REST API and database logic
+
+## 🔖 Suggested GitHub Topics
+
+react, vite, typescript, nodejs, express, mongodb, jwt, finance-tracker, expense-tracker
 
 
