@@ -20,9 +20,3 @@ Designed with a premium fintech-inspired user experience, Nova combines a respon
 ⚡ Modern UI with Smooth Animations
 
 
-Secure HTTP-only Cookies
-Password Hashing with bcrypt
-Protected API Routes
-📂 Project Structure
-frontend/
-backend/
