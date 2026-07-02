@@ -40,8 +40,6 @@ Nova Expense Tracker is a modern full-stack personal finance application designe
 - frontend: React + TypeScript user interface
 - backend: Express.js REST API and database logic
 
-## 🔖 Suggested GitHub Topics
 
-react, vite, typescript, nodejs, express, mongodb, jwt, finance-tracker, expense-tracker
 
 
